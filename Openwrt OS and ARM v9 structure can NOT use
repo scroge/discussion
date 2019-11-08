@@ -1,0 +1,3 @@
+Openwrt OS and ARM v9 structure can NOT use the v2ray core file. I use the arm file, and extract the "v2ray" and "v2ctl" file to the /usr/bin.
+
+and chmod 755 the file . When I run the v2ray file ,the router show “Illegal instruction”.
